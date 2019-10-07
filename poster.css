@@ -1,0 +1,91 @@
+p{
+  color: #73979C;
+text-align: center;
+font: helvetica;
+
+}
+
+.blue{
+  COLOR: #73979C;
+  text-align: center;
+  font: helvetica;
+  line-height: 10PX;
+}
+
+.underline{
+  text-decoration: underline;
+
+  text-align: center;
+margin-top: 10PX;
+  MARGIN-BOTTOM: 0PX;
+  font: helvetica;
+
+}
+
+.blueU{
+COLOR: #73979C;
+text-decoration: underline;
+  ;
+  width:1px
+text-align: center;
+font: helvetica;
+}
+
+ H2{
+   MARGIN-TOP: -4PX;
+  text-align: center;
+  font: helvetica;
+   }
+   H3{
+     MARGIN-TOP: -4PX;
+    text-align: center;
+    font: helvetica;
+     }
+     ''
+
+   .border-bottom {border-bottom: : 2px solid BLACK;
+  padding: 20px 20px 20px 20px;
+}
+
+body{
+
+  text-align: center;
+  font: helvetica;
+background-color: black;
+}
+
+Main{
+  font: helvetica;
+  font-size:150%;
+  line-height: 10PX;
+
+}
+h4{text-align: center;
+  font: helvetica;
+  font-size:150%;
+  line-height: .3px;
+}
+div{
+    background-image: url(paper.png);
+  padding-bottom: 10px;
+  border-top: 10px solid #73979C;
+    border-bottom: 10px solid #73979C;
+    width: 500px;
+    margin: auto;
+
+}
+A{
+  color: #73979C;
+  font-size: 175%;
+  text-align: center;
+  font: helvetica;
+
+    MARGIN-BOTTOM: 0PX;
+      line-height: 5PX;
+      text-decoration: none;
+}
+
+a:hover {
+  COLOR:WHITE;
+
+}
